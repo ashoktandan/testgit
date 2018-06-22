@@ -1,5 +1,5 @@
 const readline = require('readline');
-var a=[];
+var a=[]; //remote
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
